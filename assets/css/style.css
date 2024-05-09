@@ -1,0 +1,17 @@
+body, html{ 
+    font-family: 'Intro', Arial, Helvetica, sans-serif; 
+    line-height: 1; 
+    font-size: 16px; 
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+    *,*:before,*:after{ 
+        box-sizing: border-box; 
+    }
+img{
+        height: auto;
+    }
+h1{
+            font-size: 4rem;
+        } 
