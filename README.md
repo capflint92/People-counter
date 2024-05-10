@@ -2,7 +2,7 @@
 
 This is a simple project that displays the number of people in the shop and allows you to modify it using buttons.
 
-<img src="assets/images/Screenshot.png">
+<img src="assets/images/Screenshot.png" width="800">
 
 ## 📟 Features
 
