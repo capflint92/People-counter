@@ -11,7 +11,7 @@ This is a simple project that displays the number of people in the shop and allo
 - You can reset the number of people to zero using the "Reset" button.
 - Every time the number of people is changed, the background and text color change randomly for a fun visual effect.
 
-## 📲 Technologies Used
+## 📲 Languages
 
 - HTML
 - CSS
