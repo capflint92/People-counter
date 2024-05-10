@@ -19,10 +19,9 @@ This is a simple project that displays the number of people in the shop and allo
 
 ## 🔧 How to Use
 
-1. Clone this repository to your computer.
-2. Open the `index.html` file in your web browser.
-3. Use the "+" and "-" buttons to modify the number of people in the shop.
-4. Click the "Reset" button to reset the number of people to zero.
+1. Visit https://peoplecountershop.netlify.app/
+2. Use the "+" and "-" buttons to modify the number of people in the shop.
+3. Click the "Reset" button to reset the number of people to zero.
 
 ## 📄 License
 
@@ -30,3 +29,6 @@ This project is released under the [MIT License](LICENSE).
 
 ## 🔴 Try
 💥<a href="https://peoplecountershop.netlify.app/">COUNTER</a>💥
+
+## 🧝🏼‍♂️ Contact me
+<a href="https://www.linkedin.com/in/marco-rosato/">Linkedin</a>
