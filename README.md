@@ -27,3 +27,6 @@ This is a simple project that displays the number of people in the shop and allo
 ## 📄 License
 
 This project is released under the [MIT License](LICENSE).
+
+## 🔴 Try
+💥<a href="https://peoplecountershop.netlify.app/">COUNTER</a>💥
