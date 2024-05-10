@@ -16,6 +16,13 @@ h1{
     font-size: 4rem;
     text-align: center;
         } 
+        
+.container{
+            display: flex;
+            justify-content: center;
+            text-align: center;
+        }
+        
 button{
     border-radius: 10px;
     background: #ddd;
@@ -24,16 +31,19 @@ button{
     text-align: center;
     margin-left: 10px;
     margin-top: 5%;
-    font-size: 18px;
+    font-size: 24px;
     cursor: pointer;
 }
-.counter{
+
+#countLabel{
     text-align: center;
     line-height: 200px;
     font-size: 4rem;
 }
-.container{
-    display: flex;
-    justify-content: center;
-    text-align: center;
+
+@media (max-width: 768px) {
+  p, button {font-size: 80%;}
+  h1 {font-size: 2.1em; text-align: center; margin-top: 20%;}
 }
+
+
